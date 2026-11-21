@@ -31,7 +31,7 @@ Welcome to my GitHub portfolio! Here I showcase my end-to-end projects across da
 ---
 
 ## 📫 Connect with Me
-- **Phone:** +20 114 393 3556
+- **Phone:** 01143933556
 - **Email:** [abdelrahmansalem771@gmail.com](mailto:abdelrahmansalem771@gmail.com)
 - **LinkedIn:** [Abdelrahman Salem](https://www.linkedin.com)
 - **GitHub:** [AbdelrahmanSalem556](https://github.com/AbdelrahmanSalem556)
