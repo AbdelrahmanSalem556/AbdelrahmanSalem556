@@ -21,16 +21,16 @@ Welcome to my GitHub portfolio! Here I showcase my end-to-end projects across da
 - **[Sentiment Analysis](https://github.com/AbdelrahmanSalem556/sentiment-analysis)** — NLP pipeline for text preprocessing, feature extraction, and sentiment classification.
 - **[Retrieval-Augmented Generation (RAG) Prototype](https://github.com/AbdelrahmanSalem556/rag-prototype)** — Context-aware question-answering system combining document retrieval with generative AI.
 - **[Fingerprint Classification System (Deep Learning)](https://github.com/AbdelrahmanSalem556/fingerprint-classification-cnn)** — Convolutional Neural Network (CNN) built with TensorFlow/Keras, CLAHE preprocessing, Batch Normalization, Dropout, and a Streamlit UI.
-- **[Fingerprint Classification System (Machine Learning)](https://github.com/AbdelrahmanSalem556/fingerprint-classification-ml)** — Computer vision pipeline utilizing OpenCV CLAHE enhancement, 64x64 normalized feature vectors, a Random Forest Classifier, and a Streamlit interface.
 
 ---
 
 ## 🛠️ Core Skills & Tools
 - **Data Analysis & BI:** Power BI (DAX, Power Query), Microsoft Excel (Pivot Tables, Data Models), Web Scraping (BeautifulSoup, Requests)
-- **AI & Machine Learning:** Python, TensorFlow, Keras, OpenCV, Scikit-Learn (Random Forest), NLP, RAG, Streamlit
+- **AI & Machine Learning:** Python, TensorFlow, Keras, Scikit-Learn, NLP, RAG, Streamlit
 
 ---
 
 ## 📫 Connect with Me
+- **Email:** [abdelrahmansalem771@gmail.com](mailto:abdelrahmansalem771@gmail.com)
 - **LinkedIn:** [Abdelrahman Salem](https://www.linkedin.com)
 - **GitHub:** [AbdelrahmanSalem556](https://github.com/AbdelrahmanSalem556)
